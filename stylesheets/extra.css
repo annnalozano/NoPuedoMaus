@@ -10,15 +10,6 @@
     --md-typeset-a-color: rgb(12, 240, 190);  /*this changes the colour of the selected link text*/
 
 
-}
-
-body {
-  background-image: url('..imagen/fondo.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-} 
-
-
 .hide-scroll-bar {
     -ms-overflow-style: none;
     scrollbar-width: none;
