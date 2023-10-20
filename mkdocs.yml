@@ -8,7 +8,7 @@ site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
-navbar:
+nav:
   - Home: index.md
   - About: about/me.md
   - Term 1:
@@ -39,13 +39,19 @@ theme:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: white
     accent: pink
+  extra_css: 
+    - stylesheets/extra.css
+    - custom.css
+
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
     code: Cutive Mono
+
   icon:
     logo: material/memory
   favicon: images/favicon.svg
+
   features:
     - instant
     - navigation.expand
