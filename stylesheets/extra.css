@@ -1,5 +1,8 @@
 :root>* {
 
+  
+    --background-image: linear-gradient(red, yellow, blue);
+
     --md-footer-bg-color: none; /*this changes the colour of the navigation footer, where the navigation arrows sit*/
     --md-footer-fg-color: rgb(177, 252, 0); /*this changes the colour of the text in bottom footer, e.g navigation arrows and text*/
     --md-footer-bg-color--dark: none; /*this changes the colour of the bottom footer, where the copyright and icons sit*/
@@ -10,15 +13,6 @@
     --md-typeset-a-color: rgb(12, 240, 190);  /*this changes the colour of the selected link text*/
   }
    
-  .hero-image { 
-      background-image: url("/docs/images/perezoso.jpg"); /* The image used */ 
-      background-color: #220af7; /* Used if the image is unavailable */
-      height: 500px; /* You must set a specified height */
-      background-position: center; /* Center the image */
-      background-repeat: no-repeat; /* Do not repeat the image */
-      background-size: cover; /* Resize the background image to cover the entire container */
-    }
-    
 .hide-scroll-bar {
     -ms-overflow-style: none;
     scrollbar-width: none;
