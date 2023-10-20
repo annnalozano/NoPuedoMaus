@@ -1,5 +1,5 @@
 # Replace the text below to customize your site
-site_name: aaa
+site_name: AAaa
 site_description: Master in Design for Emergent Futures
 site_author: Student Name
 copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
@@ -64,7 +64,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
-  custom_dir: docs/stylesheet/extra.css
+  
 plugins:
   - search
   - git-revision-date-localized:
