@@ -11,7 +11,7 @@
   }
    
   .hero-image { 
-      background-image: url("/docs/images/fondo.png"); /* The image used */ 
+      background-image: url("/docs/images/perezoso.jpg"); /* The image used */ 
       background-color: #220af7; /* Used if the image is unavailable */
       height: 500px; /* You must set a specified height */
       background-position: center; /* Center the image */
