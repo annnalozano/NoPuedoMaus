@@ -11,14 +11,6 @@
 
 }
 
-.body {
-  background-image: url('imagen/fondo.png');
-      background-size: cover;
-    background-repeat: no-repeat;
-}
-
-
-
 .hide-scroll-bar {
     -ms-overflow-style: none;
     scrollbar-width: none;
