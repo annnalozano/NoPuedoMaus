@@ -11,7 +11,7 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 nav:
   - Home: index.md
   - About: about/me.md
-      - Term 1:
+  - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
           - Rols of Prototyping: term1/02-Rols.md 
           - AoWS: term1/03-Atlas of Weak Signals.md
