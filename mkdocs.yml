@@ -64,7 +64,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
-
+  custom_dir: docs/stylesheet/extra.css
 plugins:
   - search
   - git-revision-date-localized:

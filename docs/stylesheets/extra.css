@@ -2,7 +2,7 @@
 
     --md-footer-bg-color: none;
     --md-footer-fg-color: rgb(177, 252, 0);
-    --md-footer-bg-color--dark: rgb(0, 140, 255);
+    --md-footer-bg-color--dark: none;
     --md-footer-fg-color--lighter:  rgb(142, 0, 104);
     --md-footer-fg-color--light:  rgba(255, 149, 0, 0.821);
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
