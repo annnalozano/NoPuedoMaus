@@ -10,9 +10,9 @@
     --md-typeset-a-color: rgb(12, 240, 190);  /*this changes the colour of the selected link text*/
   }
    
-  .hero-image {
-      background-image: url("..image/fondo.jpg"); /* The image used */
-      background-color: #05da29; /* Used if the image is unavailable */
+  .hero-image { 
+      background-image: url("/docs/images/fondo.png"); /* The image used */ 
+      background-color: #220af7; /* Used if the image is unavailable */
       height: 500px; /* You must set a specified height */
       background-position: center; /* Center the image */
       background-repeat: no-repeat; /* Do not repeat the image */
