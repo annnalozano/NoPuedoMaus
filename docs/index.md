@@ -2,6 +2,4 @@
 ---
 
 
-body {
-  background-image: url('..imagen/fondo.png');
- } 
+![](../images/fondo.png)
