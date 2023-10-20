@@ -1,6 +1,6 @@
 :root>* {
 
-    --md-footer-bg-color: rgb(171, 4, 4);
+    --md-footer-bg-color: none;
     --md-footer-fg-color: rgb(177, 252, 0);
     --md-footer-bg-color--dark: rgb(0, 140, 255);
     --md-footer-fg-color--lighter:  rgb(142, 0, 104);
@@ -10,6 +10,13 @@
     --md-typeset-a-color: rgb(12, 240, 190);
 
 }
+
+body {
+    background-image: url('ruta-de-la-imagen.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 
 
 .hide-scroll-bar {
@@ -40,3 +47,5 @@
     font-weight: 300;
     font-size: 14px;
 }
+
+
