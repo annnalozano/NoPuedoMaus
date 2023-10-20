@@ -13,8 +13,8 @@
 }
 
 body {
-  background-image: url('docs/imagen/fondo.png');
-  background-size: cover;
+  background-image: url('..imagen/fondo.png');
+  background-size: contain;
   background-repeat: no-repeat;
 } 
 
