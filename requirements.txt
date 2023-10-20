@@ -1,7 +1,4 @@
-mkdocs
-mkdocs-material<5.5.12
-mkdocs-material-extensions
-mkdocs-git-revision-date-localized-plugin
+
 
 
 jinja2~=3.0
@@ -19,3 +16,9 @@ colorama~=0.4
 paginate~=0.5
 regex>=2022.4
 requests~=2.26
+
+# old: 
+mkdocs
+mkdocs-material<5.5.12
+mkdocs-material-extensions
+mkdocs-git-revision-date-localized-plugin
