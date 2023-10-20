@@ -2,4 +2,4 @@
 ---
 
 
-![](../images/fondo.png)
+![](../images/fondo.png) 
