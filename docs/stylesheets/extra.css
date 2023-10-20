@@ -11,6 +11,13 @@
 
 }
 
+body {
+    background-image: url('ruta-de-la-imagen.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
@@ -40,3 +47,5 @@
     font-weight: 300;
     font-size: 14px;
 }
+
+
