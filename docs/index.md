@@ -1,5 +1,3 @@
 ## Welcome
 ---
 
-![](../images/fondo.png)
-
